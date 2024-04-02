@@ -1,0 +1,11 @@
+
+‚
+java:S1854":Remove this useless assignment to local variable "opcion".(Ó“¼àúÿÿÿÿ8ƒ‘‚ê1J$aa69db2b-5b1a-4520-a611-9182f5235a28
+n
+java:S1481"+Remove this unused "opcion" local variable.(»‰â„8…‘‚ê1J$77916a88-a05f-4f25-ab59-ca44d27bfacd
+m	java:S106"+Replace this use of System.out by a logger.(Âı®Å8†‘‚ê1J$3559322d-12e2-4736-b552-24c09831cf20
+m	java:S106"+Replace this use of System.out by a logger.(“èç‚8†‘‚ê1J$5e9ccbb3-363d-4e80-b232-492b8e068df7
+r	java:S106"+Replace this use of System.out by a logger.(Ÿ¸ÅÄÿÿÿÿÿ8†‘‚ê1J$ca7c8568-9409-44e9-afe0-4a23e938c098
+m	java:S106	"+Replace this use of System.out by a logger.(’È‹Û8‡‘‚ê1J$8b0d0e87-6f3f-4b70-bbdb-c4d63d8f3bc8
+m	java:S106
+"+Replace this use of System.out by a logger.(’‡ØÑ8‡‘‚ê1J$6c93b666-2a10-41c2-b86d-c7b33f24ce4e
