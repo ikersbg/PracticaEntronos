@@ -23,7 +23,9 @@ public class Procesador {
         return velocidadGHz;
     }
 
-
+    /**
+     * He creado la clase mostrar infomacion para que nos muestre tanto la marca como la velocidad
+     */
     public void mostrarInformacion(){
         System.out.println("Marca del procesador: "+marca);
         System.out.println("Velocidad del procesador: " +velocidadGHz +"GHz");
@@ -32,6 +34,10 @@ public class Procesador {
     /**
      * @deprecated
      * @return
+     */
+    /**
+     *
+     * He creado la clase prueba rendimiento para hacerla inservible porque ya no se usa con tanta frecuencia
      */
     public double pruebaRendimiento(){
         double solucion = velocidadGHz / 30;
