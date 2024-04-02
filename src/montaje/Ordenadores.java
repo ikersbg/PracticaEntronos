@@ -4,6 +4,8 @@ package montaje;
  * @author Iker
  * @version 1.0
  * @since 01-04-2024
+ * @see Procesador
+ * @see Main
  */
 public class Ordenadores {
   private int ramGB;
@@ -42,5 +44,6 @@ public class Ordenadores {
             System.out.println("Modelo: " +modelo);
             System.out.println("RAM: "+ramGB + " GB");
         }
-    }
+
+}
 
